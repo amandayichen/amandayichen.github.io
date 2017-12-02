@@ -9,3 +9,34 @@ h1 {
     text-align: center;
     border-bottom: solid 1px pink;
 }
+
+.table-table {
+    margin-top: 100px;
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    border: 1px solid black;
+    border-collapse: collapse;
+} 
+
+
+td {   
+    border: 1px solid black;
+    min-width: 90px;
+    text-align: center; 
+}
+
+th {
+    border: 1px solid black;
+    padding: 30px;
+    background-color:pink;
+}
+
+.blank-table {
+    background-color: white;
+}
+
+ul {
+    list-style: none;
+    padding-left: 0px;
+}
