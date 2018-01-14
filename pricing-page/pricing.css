@@ -13,3 +13,15 @@
     margin-left: auto;
     margin-right: auto;
   }
+
+  .logo {
+    display: inline-block;
+  }
+
+  .nav-list {
+    display: inline-block;
+  }
+  
+  li {
+    display: inline-block;
+  }
