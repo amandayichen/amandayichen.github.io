@@ -36,7 +36,7 @@
     margin-left: 50px;
   }
   
-  li {
+  .nav-list-top {
     display: inline;
     margin-right: 8px;
   }
@@ -105,4 +105,37 @@
     border: 1px solid #00bbcc;
     padding: 6px 36px;
     border-radius: 50px;
+  }
+
+  .site-container-plans {
+    text-align: center;
+    height: 620px;
+    padding-top: 40px;
+  }
+
+  .plan {
+    display: inline-block;
+    background-color: white;
+    padding: 90px 80px 110px 80px;
+    border: 1px solid #dadfe1;
+    border-radius: 5px;
+    height: 460px;
+    width: 28%;
+    text-align: center;
+    margin: 0px -3.5px;
+
+  }
+
+  .plan-list {
+    display: block;
+    padding-left: 0px;
+  }
+
+  .star {
+    display: block;
+    list-style: none;
+    color: #1D76BA;
+    font-size: 14px;
+    font-weight: 200;
+    text-align: center;
   }
