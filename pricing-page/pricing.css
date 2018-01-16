@@ -139,3 +139,33 @@
     font-weight: 200;
     text-align: center;
   }
+
+  .site-container-allplan {
+    text-align: center;
+    height: 630px;
+  }
+
+  .allplan-title {
+    display: block;
+    color: #666666;
+    font-size: 36px;
+    text-align: ceenter;
+    padding-top: 50px;
+    padding-bottom: 88px;
+  }
+
+  .question {
+    color: #333030;
+    text-align: center;
+    font-size: 36px;
+  }
+
+  .site-container-question {
+   display: block;
+   color: #333030;
+   text-align: center;
+   font-size: 36px;
+   padding-top: 60px;
+   padding-bottom: 60px;
+
+  }
