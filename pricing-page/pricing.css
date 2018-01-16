@@ -9,7 +9,7 @@
   }
   
   .site-container-nav {
-    max-width: 1140px;
+    max-width: 1240px;
   
     /* 水平置中這個元素 */
     margin-left: auto;
@@ -28,10 +28,12 @@
 
   .logo img {
     width: 140px;
+    margin-right: 30px;
   }
 
   .nav-list {
     display: inline-block;
+    margin-left: 50px;
   }
   
   li {
