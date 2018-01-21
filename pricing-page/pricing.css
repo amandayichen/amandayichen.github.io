@@ -142,6 +142,7 @@
 
   .site-container-allplan {
     text-align: center;
+    
   }
 
   .allplan-title {
@@ -154,7 +155,28 @@
   }
 
   .allplan-option {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
     text-align: center;
+    padding-bottom: 80px;
+    column-count:3;
+  }
+
+  .allplan-options {
+    text-align: center;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-bottom: 60px;
+
+  }
+
+  .allplan-text {
+    color: #666666;
+    font-size: 20px;
+    margin-top: 20px;
   }
 
   .site-container-question {
@@ -204,4 +226,24 @@
     font-size: 16px;
     font-weight: lighter;
     padding-bottom: 70px;
+  }
+
+  .dark-background-action {
+    padding: 50px;
+    background-color: #2e3741;
+  }
+
+  .site-container-action {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .action-1 {
+    color: #fff;
+    text-align: left;
+    font-size: 20px;
+    font-weight: 300;
+    margin-left: 7px;
+    
   }
