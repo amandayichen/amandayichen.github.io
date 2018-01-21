@@ -234,6 +234,7 @@
   }
 
   .site-container-action {
+    display: inline-block;
     text-align: center;
     margin-left: auto;
     margin-right: auto;
@@ -245,5 +246,74 @@
     font-size: 20px;
     font-weight: 300;
     margin-left: 7px;
+    margin-bottom: 15px;
     
   }
+
+  .emailborder {
+    text-align: left;
+  }
+
+  .email {
+    width: 400px;
+    height: 48px;
+    color: #333;
+    font-size: 14px;
+    text-decoration: none;
+    background-color: #fff;
+    border: 1px solid #fff;
+    padding: 12px 20px 15px 15px;
+    border-radius: 5px 0 0 5px;
+    margin-right: 0;
+  }
+
+  .emailbutton {
+    height: 48px;
+    color: #fff;
+    text-decoration: none;
+    background-color: #00bbcc;
+    border: 1px solid #00bbcc;
+    border-radius: 0 5px 5px 0;
+    margin-left: -7px;
+    padding: 12px 20px 15px 15px;
+  }
+
+  .action-3 {
+    
+    color: #00bbccb9;
+    font-size: 14px;
+    font-weight: lighter;
+    padding: 15px 0 0 0;
+    font-weight: 200px;
+    text-align: left;
+  }
+
+  .site-container-partner {
+    background-color: white;
+  }
+
+  .partnertext {
+    text-align: center;
+    color: #333030;
+    font-size: 32px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+
+  .partner-row {
+    display: inline-block;
+    padding-bottom: 50px;
+  }
+
+  .partner {
+    display: inline-block;
+    text-align: center;
+    padding: 0 45px 0 45px;
+    width: 24%;
+  }
+
+  .partnersize {
+    height: 70px;
+    text-align: center;
+  }
+  
